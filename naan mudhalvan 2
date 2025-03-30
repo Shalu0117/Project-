@@ -9,7 +9,9 @@
 <body>
 
     <header>
-        <img src="IMG-20240629-WA0066.jpg" alt="this is my profile">
+<div class="profile-container">
+        <img src="IMG-20240629-WA0066.jpg" alt="Profile Photo">
+    </div>
         <h1>Gopika</h1>
         <p><a href="mailto:shalulatha730@gmail.com">shalulatha790@gmail.com</a> | 7695875703</p>
     </header>
