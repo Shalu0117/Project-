@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pushpalatha T- Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <img src="IMG-20240629-WA0066.jpg" alt="this is my profile">
+        <h1>Gopika</h1>
+        <p><a href="mailto:shalulatha730@gmail.com">shalulatha790@gmail.com</a> | 7695875703</p>
+    </header>
+
+    <section class="career-objective">
+        <h2>Career Objective</h2>
+        <p>Motivated and detail-oriented BSc Computer Science graduate with strong time management, active listening, and creativity skills. A fast learner with a passion for technology, eager to apply knowledge and contribute effectively in a dynamic work environment.</p>
+    </section>
+
+    <section class="education">
+        <h2>Education</h2>
+        <p><strong>BSc Computer Science</strong></p>
+        <p>Shree Chandraprabhu Jain College | Madras University</p>
+    </section>
+
+    <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Time Management</li>
+            <li>Creativity</li>
+            <li>Chef (Italian style)</li>
+            <li>Basic Computer Knowledge</li>
+        </ul>
+    </section>
+
+    <section class="strengths">
+        <h2>Strengths</h2>
+        <ul>
+            <li>Quick learner</li>
+            <li>Strong problem-solving abilities</li>
+            <li>Leadership</li>
+        </ul>
+    </section>
+
+    <section class="languages">
+        <h2>Languages</h2>
+        <ul>
+            <li>English</li>
+            <li>Tamil</li>
+        </ul>
+    </section>
+
+    <section class="hobbies">
+        <h2>Hobbies & Interests</h2>
+        <ul>
+            <li>Reading Interesting Books</li>
+            <li>Creative Writing</li>
+            <li>Problem-Solving Activities</li>
+        </ul>
+    </section>
+
+    <section class="declaration">
+        <h2>Declaration</h2>
+        <p>I hereby declare that the above information is true and correct to the best of my knowledge.</p>
+        <p><strong>Signature:</strong> Pushpalatha</p>
+    </section>
+
+    <section id="resume">
+        <div class="section-content">
+            <center>
+                <h2>Resume</h2>
+                <a href="CV_2025032614054495.pdf" target="_blank" class="download-button">Download CV</a>
+            </center>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Pushpalatha T | All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>
